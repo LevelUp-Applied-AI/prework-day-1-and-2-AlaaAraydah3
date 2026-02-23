@@ -1,4 +1,4 @@
-# Device Check — [Your Name]
+# Device Check — [Alaa Araydah]
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [YYYY-MM-DD]
@@ -43,7 +43,7 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [laptop-918hcga1\user]
 
 ---
 
