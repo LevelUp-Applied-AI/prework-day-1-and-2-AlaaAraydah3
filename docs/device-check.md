@@ -1,8 +1,8 @@
 # Device Check — [Alaa Araydah]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-24]
+**GitHub username:** [AlaaAraydah3]
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
+| Operating System | ( Windows 11 23H2) |
+| OS Build / Version | 22631.6199 |
+| RAM | ( 8 GB) |
+| CPU Model | ( Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz   2.50 GHz) |
 | CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Free Disk Space | ( 15 GB free) |
+| Internet Speed (Download) | ( 77 — Mbps) |
 
 ---
 
