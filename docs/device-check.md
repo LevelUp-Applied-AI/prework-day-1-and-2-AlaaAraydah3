@@ -1,8 +1,8 @@
 # Device Check — [Alaa Araydah]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [2026-02-24]
-**GitHub username:** [AlaaAraydah3]
+**Date completed:** 2026-02-24
+**GitHub username:** AlaaAraydah3
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | ( Windows 11 23H2) |
+| Operating System |  Windows 11 23H2 |
 | OS Build / Version | 22631.6199 |
-| RAM | ( 8 GB) |
-| CPU Model | ( Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz   2.50 GHz) |
-| CPU Cores | |
+| RAM | 8 GB |
+| CPU Model |  Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz   2.50 GHz |
+| CPU Cores | 4 |
 | Free Disk Space | ( 15 GB free) |
-| Internet Speed (Download) | ( 77 — Mbps) |
+| Internet Speed (Download) |  77 — Mbps |
 
 ---
 
